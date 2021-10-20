@@ -1,0 +1,137 @@
+#
+# Tenga en cuenta que al modificar este archivo, el mínimo error en la sintáxis puede generar errores
+#
+
+sidebar:
+  about: False # NO MODIFICAR
+  education: False # NO MODIFICAR
+
+  # Profile information
+  name: Jairo Olan # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  avatar: escudo.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+
+  # Actualiza tus datos de contacto
+  email: olan.mayo05@gmail.com
+  phone: +52 9933082324
+  website: # No agregar http://
+  linkedin: www.linkedin.com/in/jairo-olan-b584b4204
+  github: jairolan
+  gitlab:
+  bitbucket: 
+  twitter: '@jairo_olan'
+  stack-overflow: 16960729/Jairo
+  codewars: jairolan
+  goodreads: # Number-Username, e.g. 123456-alandoe
+
+  # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
+  languages:
+    - idiom: English
+      level: Advanced beginner # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+    - idiom: Spanish
+      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+  # Registra aquí tus soft skills. Agrega o elimina según sea necesario
+  interests:
+    - item: Communication
+      link: # dejar en blanco
+
+    - item: Patience
+      link: # dejar en blanco
+
+    - item: Adaptability
+      link: # dejar en blanco
+
+    - item: Team work
+      link: # dejar en blanco
+
+# Registra aquí un resumen de tu perfil
+career-profile:
+  title: About Me # NO MODIFICAR
+  summary: |
+    I am a technology lover, I like programming, I especially like the area of 
+    web development and I am also interested in the development of mobile devices.
+    
+    I graduated from the Universidad Politécnica del Centro as a software engineer, 
+    where I was able to learn all the successive stages of software development, 
+    I experimented with several programming languages such as java, delphi and ruby, 
+    the one that most caught my attention was ruby, for its simplicity, 
+    I was also able to learn in depth the maintenance part of a software, which is 
+    basically to improve and correct everything necessary to obtain a quality product.
+# Registra aquí tus estudios. Agrega o elimina según sea necesario
+educationcomplete:
+  - degree: Software engineering
+    university: Universidad Politecnica del Centro
+    time: 2017 Sep - 2020 Dec
+    details: |
+      Software development and maintenance
+# Registra aquí tu experiencia. Agrega o elimina según sea necesario
+experiences:
+  - role: Software Developer
+    time: 2018 Nov - 2018 Dec
+    company: Red de Innovacion y Emprendiemiento de Tabasco, Tabasco, Mexico
+    details: |
+      Development of interface and login functionality with the Ruby 
+      on Rails framework for RIE Tabasco's project.
+  - role: Training Developer
+    time: 2019 Nov - 2019 Dec
+    company: Kondosoft, Tabasco, Mexico
+    details: |
+      Training program for developers, focused on learning the basic tools 
+      and skills of a programmer.
+  - role: Web Developer
+    time: 2020 Sep - 2020 Dec
+    company: SEDENER, Tabasco, Mexico
+    details: |
+      Development of an informative web application based on staged development, 
+      which obtains information from a content manager which is located within 
+      the same project
+  - role: Web Developer
+    time: 2021 May - 2021 Sep
+    company: Brightcoders Academy, Mexico
+    details: |
+      Training program for ruby on rails development, consisting of two projects
+      developed from scratch, using postgres as main database and heroku as 
+      service platform. 
+# Registra aquí tus habilidades técnicas, para level utiliza:
+# 20% para Novice
+# 40% para Advanced beginner
+# 60% para Competent
+# 80% para Proficient
+# 100% para Expert
+skills:
+  title: Technical Skills # NO MODIFICAR
+
+  toolset:
+    - name: Git
+      level: 80%
+
+    - name: Ruby
+      level: 40%
+
+    - name: JS
+      level: 20%
+
+    - name: HTML
+      level: 80%
+
+    - name: CSS
+      level: 80%
+
+    - name: Tailwind Css
+      level: 80%
+
+    - name: SQL
+      level: 80%
+    
+    - name: Rspec
+      level: 40%
+
+    - name: Rails
+      level: 60%
+
+
+# NO MODIFICAR
+footer: >
+  BrightCoders for a brighter future!
